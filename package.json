@@ -10,7 +10,8 @@
   "files": [
     "_animate.scss",
     "eyeglass-exports.js",
-    "animations"
+    "animations",
+    "helpers"
   ],
   "repository": {
     "type": "git",
