@@ -3,12 +3,14 @@
   "version": "0.6.6",
   "description": "animate-sass is a Sass version of Dan Eden's Animate.css.",
   "main": "_animate.scss",
+  "keywords": ["eyeglass-module"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
     "_animate.scss",
-    "eyeglass-exports.js"
+    "eyeglass-exports.js",
+    "animations"
   ],
   "repository": {
     "type": "git",
